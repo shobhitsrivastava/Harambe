@@ -3,6 +3,9 @@
     "name": "Harambe",
     "version": "1.0.0",
     "description": "A simple Chrome extension that replaces references to divine entities with the word \"Harambe\"",
+    "browser_action": {
+        "default_title": "toggle Harambe"
+    },
     "icons": {
         "128": "Harambe.png"
     }

@@ -1,5 +1,9 @@
 {
     "manifest_version": 2,
     "name": "Harambe",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "A simple Chrome extension that replaces references to divine entities with the word \"Harambe\"",
+    "icons": {
+        "128": "Harambe.png"
+    }
 }
